@@ -25,6 +25,12 @@
       <import>
         <type>java.util.ArrayList</type>
       </import>
+      <import>
+        <type>com.myspace.lab01_hello_jbpm.Issue</type>
+      </import>
+      <import>
+        <type>com.myspace.lab01_hello_jbpm.Person</type>
+      </import>
     </imports>
   </imports>
   <version>1.0</version>

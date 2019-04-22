@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
   <artifactId>lab01-hello-jbpm</artifactId>
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.4-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>lab01-hello-jbpm</name>
   <description>My First Lab</description>

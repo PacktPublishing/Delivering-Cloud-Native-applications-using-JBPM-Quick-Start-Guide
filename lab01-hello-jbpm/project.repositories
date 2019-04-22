@@ -3,22 +3,6 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>redhat-techpreview-all-repository</id>
-        <url>http://maven.repository.redhat.com/techpreview/all/</url>
-        <source>SETTINGS</source>
-      </metadata>
-    </repository>
-    <repository>
-      <include>true</include>
-      <metadata>
-        <id>jboss-enterprise-maven-repository</id>
-        <url>https://maven.repository.redhat.com/ga/</url>
-        <source>SETTINGS</source>
-      </metadata>
-    </repository>
-    <repository>
-      <include>true</include>
-      <metadata>
         <id>local</id>
         <url>/Users/kvarela/.m2/repository</url>
         <source>LOCAL</source>
@@ -30,6 +14,22 @@
         <id>central</id>
         <url>https://repo.maven.apache.org/maven2</url>
         <source>PROJECT</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>redhat-techpreview-all-repository</id>
+        <url>http://maven.repository.redhat.com/techpreview/all/</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>jboss-enterprise-maven-repository</id>
+        <url>https://maven.repository.redhat.com/ga/</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
   </repositories>
