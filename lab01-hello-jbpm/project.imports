@@ -26,10 +26,10 @@
         <type>java.util.ArrayList</type>
       </import>
       <import>
-        <type>com.myspace.lab01_hello_jbpm.Issue</type>
+        <type>com.myspace.lab01.Issue</type>
       </import>
       <import>
-        <type>com.myspace.lab01_hello_jbpm.Person</type>
+        <type>com.myspace.lab01.Person</type>
       </import>
     </imports>
   </imports>

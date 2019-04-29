@@ -129,7 +129,7 @@
   <imports>
     <imports/>
   </imports>
-  <packageName>com.myspace.lab01_hello_jbpm</packageName>
+  <packageName>com.myspace.lab01</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
   <hitPolicy>NONE</hitPolicy>
   <data>
