@@ -38,6 +38,12 @@ public class Issue implements java.io.Serializable {
 	public Issue() {
 	}
 
+	@Override
+	public String toString() {
+		return "Issue [type=" + type + ", automatic=" + automatic + ", creationDate=" + creationDate + ", endDate="
+				+ endDate + ", reporter=" + reporter + ", solution=" + solution + ", question=" + question
+				+ ", helpful=" + helpful + "]";
+	}
 
 	public java.lang.String getType() {
 		return this.type;
